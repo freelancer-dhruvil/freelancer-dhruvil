@@ -4,13 +4,13 @@
 
 🌱 I’m currently learning **Docker, Kubernetes, Jenkins, Nginx**
 
-👨‍💻 All of my personal projects are available at [https://github.com/dhruvilrathod/](https://github.com/dhruvilrathod/)
+👨‍💻 All of my projects are available at [https://github.com/dhruvilrathod/](https://github.com/dhruvilrathod/)
 
 💬 Ask me about **Angular, NodeJS, ExpressJS, Three.js, NestJS**
 
 📫 How to reach me **dhruvilrathod2001@gmail.com**
 
-📄 Know about my experiences [latest_resume.pdf](http://cloud.developerdevils.great-site.net/uploads/latest_resume.pdf)
+📄 Know about my experiences [Latest Resume](http://cloud.developerdevils.great-site.net/uploads/Dhruvil_Rathod_resume.pdf)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

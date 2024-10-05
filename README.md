@@ -8,7 +8,7 @@
 
 💬 Ask me about **Angular, NodeJS, ExpressJS, Three.js, NestJS**
 
-📫 How to reach me **dhruvilrathod2001@gmail.com**
+📫 How to reach me **thedhruvilrathod@gmail.com**
 
 📄 Know about my experiences [Latest Resume](http://cloud.developerdevils.great-site.net/uploads/Dhruvil_Rathod_resume.pdf)
 
